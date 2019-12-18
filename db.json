@@ -1,7 +1,7 @@
   
 {
   "markers": [
-    { "id": 1, "lon": "31", "lat": "32", "name":"test", "content":"test longer", "tag":["search", "food", "online"]},
+    { "id": 1, "lon": "51.5074", "lat": "0.1277", "name":"test", "content":"test longer", "tag":["search", "food", "online"]},
     { "id": 1, "lon": "31", "lat": "32", "name":"test", "content":"test longer", "tag":["search", "food", "online"]},
     { "id": 1, "lon": "31", "lat": "32", "name":"test", "content":"test longer", "tag":["search", "food", "online"]}
   ],
