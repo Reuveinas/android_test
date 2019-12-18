@@ -1,7 +1,7 @@
   
 {
   "markers": [
-    { "id": 1, "title": "Post 1" },
+    { "id": 1, "lon": "31", "lat": "32", "name":"test", "content":"test longer", "tag":["search", "food", "online"]},
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
